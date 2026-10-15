@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Attendance & Analytics API
 
 FastAPI + PyMongo service for employee attendance, regularization and analytics.
@@ -29,3 +30,7 @@ On macOS/Linux, activate the virtual environment with `source .venv/bin/activate
 - `sample_seed.py` loads the provided sample data. Run it only against a development database because it inserts sample records.
 - Analytics are implemented with MongoDB aggregation pipelines. Test edge cases beyond the supplied sample before submission; the provided sample alone is not a complete verification.
 - Submit `app/main.py`, `requirements.txt`, `REVIEW.md`, `DECISIONS.md`, and this README in a public Git repository. Do not commit `.env`, secrets, a virtual environment, a Dockerfile, or data dumps.
+=======
+# sdt-employee-attendence-api
+Employee Attendence and Analytics API
+>>>>>>> 5c8202c4de9f5672f9d72478a37b5a61a5f1c779
